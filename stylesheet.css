@@ -1,0 +1,60 @@
+body {
+    font-family: 'Alegreya Sans SC'
+}
+
+/** COLORS **/
+
+.green {
+    background-color: #6ECB7D;
+}
+
+.bleachgreen {
+    background-color: #9BD6A6;
+}
+
+.darkgreen {
+    background-color: #5B9471;
+}
+
+.darkestgreen {
+    background-color: #49685B;
+}
+
+/** NO MORE COLORS **/
+
+.jumbotron {
+    padding: 50px 100px;
+}
+
+p, li {
+    font-size: 1.6em;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.width {
+    max-width: 1237.33px
+}
+
+.center {
+    float: none;
+    margin: 0 auto;
+}
+
+.list-margin {
+    margin: 30px;
+}
+
+.header-margin {
+    margin: 50px
+}
+
+h1, strong {
+    color: black
+}
+
+.border {
+    border: 5px solid black
+}
