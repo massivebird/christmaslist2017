@@ -22,10 +22,6 @@ body {
 
 /** NO MORE COLORS **/
 
-.jumbotron {
-    padding: 50px 100px;
-}
-
 p, li {
     font-size: 1.6em;
 }
@@ -57,4 +53,12 @@ h1, strong {
 
 .border {
     border: 5px solid black
+}
+
+.item-margin {
+    padding-bottom: 50px
+}
+
+.item-header {
+    font-size: 2.3em
 }
